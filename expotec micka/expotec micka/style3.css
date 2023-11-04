@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,td{
+    padding: 10px 15px;
+}
+
+td {
+    background-color: aliceblue; 
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+th{
+    background-color:rgb(5, 5, 80);
+    color: aliceblue;
+}
+table{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.PROGRAMAÇÃO{
+    color: aliceblue; 
+    font-family: sans-serif;
+}
+
+.PROGRAMAÇÃO h2{
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 40px;
+}
+
+body{
+    background-image: url('/imagens/gif2.gif');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
